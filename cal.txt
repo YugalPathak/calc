@@ -1,0 +1,15 @@
+class calculator
+{
+public static void main (String args[])
+{
+add(int a, int b)
+{
+int c=a+b;
+}
+subtract(int a, int b)
+{
+int c=a-b;
+}
+}
+}
+
