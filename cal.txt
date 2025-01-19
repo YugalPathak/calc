@@ -6,6 +6,10 @@ add(int a, int b)
 {
 int c=a+b;
 }
+subtract(int a, int b)
+{
+int c=a-b;
+}
 }
 }
 
